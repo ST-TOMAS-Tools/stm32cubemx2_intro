@@ -34,3 +34,4 @@ Now i can use this lavel to use the uart if i keep same label i can use UART1/2/
 huart = my_uart_gethandle()
 HAL_UART_Transmit(huart,buffer,size,timeout); 
 ```
+
